@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">HyLoSh</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."
+    </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_address">My Address</string>
+    <string name="nav_order">My Orders</string>
+    <string name="nav_stores">My Stores</string>
+    <string name="nav_help">Help</string>
+    <string name="nav_share">Share</string>
+    <string name="nav_feedback">Feedback</string>
+    <string name="nav_aboutaha">About AHA</string>
+    <string name="nav_terms_conditions">Terms and Conditions</string>
+    <string name="nav_privacy_policy">Privacy Policies</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Home</item>
+        <item>Photos</item>
+        <item>Movies</item>
+        <item>Notifications</item>
+        <item>Settings</item>
+    </string-array>
+
+    <string name="activity_title_about_us">About Us</string>
+    <string name="activity_title_privacy_policy">Privacy Policy</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+    <string name="server_error">Please check you internet connectivity.</string>
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_tin_no">Tin No : </string>
+    <string name="prompt_select_villages">Villages : </string>
+    <string name="action_login_short">Login</string>
+    <string name="error_invalid_username">This username address is invalid</string>
+
+    <string name="login">Login</string>
+    <string name="search">Search</string>
+    <string name="something_went_wrong">Something went wrong...Please try again.</string>
+    <string name="hint_email">Enter Email Id</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="hint_first_name">Enter First Name</string>
+    <string name="hint_last_name">Enter Last Name</string>
+
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+
+
+
+    <string name="registration">Registration Form</string>
+    <string name="enter_your_first_name">Enter your first name</string>
+    <string name="desired_username">Desired Username</string>
+    <string name="enter_middle_name">Enter Middle name (Optional)</string>
+    <string name="enter_last_name">Enter last name</string>
+    <string name="enter_password">Enter password</string>
+    <string name="re_enter_password">Re-enter password</string>
+    <string name="enter_valid_email_id_optional_">Enter Valid Email Id</string>
+    <string name="enter_dob">Select your DOB</string>
+
+    <string name="register">Register</string>
+
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+
+</resources>
+

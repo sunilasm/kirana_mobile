@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_address"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/nav_address" />
+        <item
+            android:id="@+id/nav_order"
+            android:icon="@drawable/ic_photo_library_black_24dp"
+            android:title="@string/nav_order" />
+        <item
+            android:id="@+id/nav_stores"
+            android:icon="@drawable/ic_local_movies_black_24dp"
+            android:title="@string/nav_stores" />
+
+
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/ic_notifications_black_24dp"
+                android:title="@string/nav_help" />
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:title="@string/nav_share" />
+
+            <item
+                android:id="@+id/nav_aboutaha"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:title="@string/nav_aboutaha" />
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:title="@string/nav_feedback" />
+            <item
+                android:id="@+id/nav_terms_conditions"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:title="@string/nav_terms_conditions" />
+            <item
+                android:id="@+id/nav_privacy_policy"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:title="@string/nav_privacy_policy" />
+
+
+        </menu>
+    </item>
+
+</menu>
